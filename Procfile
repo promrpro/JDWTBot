@@ -1,1 +1,1 @@
-java -jar JDWTBot.jar
+worker: java -jar JDWTBot.jar
